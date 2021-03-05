@@ -19,6 +19,7 @@
 "tagIdOnDrop": "",
 "userIcon": ""
 } ,
+	
 	{
 "name": "",
 "allyCode": "623622873",
@@ -363,7 +364,7 @@
 "allyCode": "247374916",
 "tagIdOnDrop": "",
 "userIcon": ""
-}
+} , 
 	
 		{
 "name": "Shamann",
@@ -373,7 +374,7 @@
 "userIcon": ":poop:"
 } ,
 	
-			{
+		{
 "name": "Jordi",
 "allyCode": "247374916",
 "tagIdOnDrop": "",
@@ -381,7 +382,7 @@
 "userIcon": ":poop:"
 } ,
 	
-				{
+		{
 "name": "Maksym",
 "allyCode": "195919946",
 "tagIdOnDrop": "",

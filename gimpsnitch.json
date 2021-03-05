@@ -12,6 +12,13 @@
 "tagIdOnDrop": "",
 "userIcon": ""
 } ,
+	
+	{
+"name": "Zakem",
+"allyCode": "222252966",
+"tagIdOnDrop": "",
+"userIcon": ""
+} ,
 	{
 "name": "",
 "allyCode": "623622873",
@@ -64,6 +71,13 @@
 	{
 "name": "",
 "allyCode": "757459991",
+"tagIdOnDrop": "",
+"userIcon": ""
+} ,
+
+{
+"name": "Tiric Thorn99",
+"allyCode": "832819651",
 "tagIdOnDrop": "",
 "userIcon": ""
 } ,
@@ -148,7 +162,7 @@
 	{
 "name": "",
 "allyCode": "796833485",
-"tagIdOnDrop": "318067627740102665",
+"tagIdOnDrop": "",
 "userIcon": ""
 } ,
 
@@ -199,8 +213,8 @@
 "name": "Flamin Dragon",
 "allyCode": "718897424",
 "tagIdOnDrop": "",
-"tagIdOnClimb": "&290218165776941056",
-"userIcon": " "
+"tagIdOnClimb": "",
+"userIcon": ""
 } ,
 
 	{
@@ -215,8 +229,8 @@
 "name": "TurboParkiet",
 "allyCode": "822485181",
 "tagIdOnDrop": "",
-"tagIdOnClimb": "&290218165776941056",
-"userIcon": " "
+"tagIdOnClimb": "",
+"userIcon": ""
 } ,
 
 	{
@@ -350,4 +364,29 @@
 "tagIdOnDrop": "",
 "userIcon": ""
 }
+	
+		{
+"name": "Shamann",
+"allyCode": "433863995",
+"tagIdOnDrop": "",
+"tagIdOnClimb": "&290218165776941056",
+"userIcon": ":poop:"
+} ,
+	
+			{
+"name": "Jordi",
+"allyCode": "247374916",
+"tagIdOnDrop": "",
+"tagIdOnClimb": "&290218165776941056",
+"userIcon": ":poop:"
+} ,
+	
+				{
+"name": "Maksym",
+"allyCode": "195919946",
+"tagIdOnDrop": "",
+"tagIdOnClimb": "&290218165776941056",
+"userIcon": ":poop:"
+} ,
+	
 ]

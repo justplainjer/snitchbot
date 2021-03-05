@@ -3,7 +3,7 @@
 "name": "BooBooFnKitty",
 "allyCode": "534635937",
 "tagIdOnDrop": "694329101976338532",
-"userIcon": ":flag_us:"
+"userIcon": ":pop_pop_cat:"
 } ,
 
 	{
@@ -175,10 +175,10 @@
 } ,
 
 	{
-"name": "",
+"name": "Olios",
 "allyCode": "359939126",
-"tagIdOnDrop": "",
-"userIcon": ""
+"tagIdOnDrop": "&290218165776941056",
+"userIcon": ":han_shrug:"
 } ,
 
 	{
@@ -193,7 +193,7 @@
 "allyCode": "652792189",
 "tagIdOnDrop": "", 
 "tagIdOnClimb": "&290218165776941056",
-"userIcon": ":poop:"
+"userIcon": ":middle_finger:"
 } ,
 
 	{
@@ -249,7 +249,7 @@
 "allyCode": "616947425",
 "tagIdOnDrop": "694329101976338532",
 "tagIdOnClimb": "",
-"userIcon": ":flag_us:"
+"userIcon": ":pop_pop_cat:"
 } ,
 
 	{
@@ -289,17 +289,17 @@
 } ,
 
 	{
-"name": "",
+"name": "SlugKisser",
 "allyCode": "386939149",
-"tagIdOnDrop": "",
-"userIcon": ""
+"tagIdOnClimb": "&290218165776941056",
+"userIcon": ":poop:"
 } ,
 
 	{
-"name": "",
+"name": "The Shitty Luis Yavok",
 "allyCode": "678885793",
 "tagIdOnDrop": "",
-"userIcon": ""
+"userIcon": ":poop:"
 } ,
 
 	{
@@ -310,10 +310,10 @@
 } ,
 
 	{
-"name": "",
+"name": "Rummy",
 "allyCode": "368296785",
-"tagIdOnDrop": "",
-"userIcon": ""
+"tagIdOnDrop": "&290218165776941056",
+"userIcon": ":poop:"
 } ,
 
 	{
@@ -327,6 +327,7 @@
 "name": "TheForceShits",
 "allyCode": "339768416",
 "tagIdOnDrop": "",
+"tagIdOnClimb": "&290218165776941056",
 "userIcon": ":poop:"
 } ,
 
@@ -339,17 +340,11 @@
 } ,
 
 	{
-"name": "",
+"name": "Mbappe",
 "allyCode": "789925884",
 "tagIdOnDrop": "",
-"userIcon": ""
-} ,
-
-	{
-"name": "",
-"allyCode": "247374916",
-"tagIdOnDrop": "",
-"userIcon": ""
+"tagIdOnClimb": "&290218165776941056",
+"userIcon": ":poop:"
 } ,
 
   {
@@ -357,7 +352,7 @@
 "allyCode": "195919946",
 "tagIdOnDrop": "",
 "tagIdOnClimb": "&290218165776941056",
-"userIcon": ":poop:"
+"userIcon": ":han_shrug:"
 } ,
   
   	  {
@@ -365,7 +360,7 @@
 "allyCode": "433863995",
 "tagIdOnDrop": "",
 "tagIdOnClimb": "&290218165776941056",
-"userIcon": ":poop:"
+"userIcon": ":han_shrug:"
 } , 
   
  	 {
@@ -377,17 +372,18 @@
 } , 
   
  	 {
-"name": "",
+"name": "Tiric Thorn99",
 "allyCode": "832819651",
 "tagIdOnDrop": "",
 "userIcon": ""
 } ,
   
  	 {
-"name": "",
+"name": "Zakem",
 "allyCode": "222252966",
 "tagIdOnDrop": "",
-"userIcon": ""
+"tagIdOnClimb": "&290218165776941056",
+"userIcon": ":han_shrug:"
 } ,
   
  	 {
@@ -395,6 +391,6 @@
 "allyCode": "635123556",
 "tagIdOnDrop": "",
 "tagIdOnClimb": "&290218165776941056",
-"userIcon": ":poop:"
+"userIcon": ":han_shrug:"
 }  
 ]

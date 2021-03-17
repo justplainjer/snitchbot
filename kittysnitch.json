@@ -3,7 +3,7 @@
 "name": "BooBooFnKitty",
 "allyCode": "534635937",
 "tagIdOnDrop": "694329101976338532",
-"userIcon": ":pop_pop_cat:"
+"userIcon": ""
 } ,
 
 	{
@@ -177,8 +177,8 @@
 	{
 "name": "Olios",
 "allyCode": "359939126",
-"tagIdOnDrop": "&290218165776941056",
-"userIcon": ":han_shrug:"
+"tagIdOnClimb": "&290218165776941056",
+"userIcon": ":person_shrugging:"
 } ,
 
 	{
@@ -249,7 +249,7 @@
 "allyCode": "616947425",
 "tagIdOnDrop": "694329101976338532",
 "tagIdOnClimb": "",
-"userIcon": ":pop_pop_cat:"
+"userIcon": ""
 } ,
 
 	{
@@ -312,7 +312,7 @@
 	{
 "name": "Rummy",
 "allyCode": "368296785",
-"tagIdOnDrop": "&290218165776941056",
+"tagIdOnClimb": "&290218165776941056",
 "userIcon": ":poop:"
 } ,
 
@@ -352,7 +352,7 @@
 "allyCode": "195919946",
 "tagIdOnDrop": "",
 "tagIdOnClimb": "&290218165776941056",
-"userIcon": ":han_shrug:"
+"userIcon": ":person_shrugging:"
 } ,
   
   	  {
@@ -360,7 +360,7 @@
 "allyCode": "433863995",
 "tagIdOnDrop": "",
 "tagIdOnClimb": "&290218165776941056",
-"userIcon": ":han_shrug:"
+"userIcon": ""
 } , 
   
  	 {
@@ -383,7 +383,7 @@
 "allyCode": "222252966",
 "tagIdOnDrop": "",
 "tagIdOnClimb": "&290218165776941056",
-"userIcon": ":han_shrug:"
+"userIcon": ":person_shrugging:"
 } ,
   
  	 {
@@ -391,6 +391,6 @@
 "allyCode": "635123556",
 "tagIdOnDrop": "",
 "tagIdOnClimb": "&290218165776941056",
-"userIcon": ":han_shrug:"
+"userIcon": ":person_shrugging:"
 }  
 ]
